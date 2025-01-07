@@ -1,0 +1,7 @@
+-- set passwaord using below command in cmd
+set PGPASSWORD=your_db_password
+
+-- then run this command in cmd to genrate backup of your db
+"C:\Program Files\PostgreSQL\17\bin\pg_dump.exe" --file "C:\\Users\\DELL\\Desktop\\Temp\\abc.sql" --host "localhost" --port "5432" --username "postgres" --format=p --verbose "fagitodb"
+
+
