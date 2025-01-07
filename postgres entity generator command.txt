@@ -1,0 +1,4 @@
+npx typeorm-model-generator -h localhost -d fagitodb -p 5432-u postgres -x 123456 -e postgres -o . -s public---
+
+
+npx typeorm-model-generator -h 104.255.32.203 -d bizecho_db -p 3388 -u bizecho_user -x biz2024_echo@ -e postgres -o . -s public
