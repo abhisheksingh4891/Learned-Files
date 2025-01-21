@@ -97,7 +97,7 @@ deploy:
 
 - git merge branch_name_to_be_merged
 
-````tsx
+```tsx
 ### new workflow
 name: CI/CD Pipeline
 
