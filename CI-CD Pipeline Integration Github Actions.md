@@ -14,7 +14,7 @@
 - echo. > .github\workflows\ci-cd.yml ---- for windows
 - touch .github/workflows/ci-cd.yml ---- for linux/unix
 
-### add sample line of workflow in .yml created
+### Add sample line of workflow in .yml created
 
 ```tsx
 name: CI/CD Pipeline
